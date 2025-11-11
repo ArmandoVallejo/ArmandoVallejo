@@ -9,9 +9,7 @@
 <p align="center">
   💻 <b>Web Developer</b> | ⚙️ <b>Vue.js · JavaScript · Laravel · PHP · MySQL</b>  
 </p>
-
 ---
-
 ### 🧰 Tech Stack
 
 #### 💡 Frontend
