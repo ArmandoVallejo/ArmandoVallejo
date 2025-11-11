@@ -12,14 +12,6 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 TICs Engineering student at **Instituto Tecnológico de Aguascalientes**  
-- 🚀 Passionate about **building web applications** that solve real-world problems  
-- 🔍 Always learning — exploring **backend optimization, UX, and scalable systems**  
-- 💬 I enjoy discussing **philosophy, innovation, and technology**  
-
----
-
 ### 🧰 Tech Stack
 
 #### 💡 Frontend
@@ -29,21 +21,13 @@
 
 #### ⚙️ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,sqlite,postman" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman" />
 </p>
 
 #### 🛠 Tools & Others
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
-
----
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArmandoVallejo&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoVallejo&layout=compact&langs_count=7&theme=radical"/>
-</div>
 
 ---
 
