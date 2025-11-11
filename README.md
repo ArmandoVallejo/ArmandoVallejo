@@ -16,12 +16,12 @@
 
 #### 💡 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=vue" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 20px;" />
 </p>
 
 #### ⚙️ Backend
@@ -34,10 +34,10 @@
 
 #### 🛠 Tools & Others
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=github" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 10px;" />
-  <img src="https://skillicons.dev/icons?i=linux" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=github" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 20px;" />
+  <img src="https://skillicons.dev/icons?i=linux" style="margin: 0 20px;" />
 </p>
 
 ---
@@ -45,13 +45,13 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/ArmandoVallejo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" style="margin: 0 20px;"/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="margin: 0 10px;"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="margin: 0 20px;"/>
   </a>
   <a href="mailto:juanarmandovh20@gmail.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 0 10px;"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 0 20px;"/>
   </a>
 </p>
 
