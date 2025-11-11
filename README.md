@@ -15,18 +15,29 @@
 ### 🧰 Tech Stack
 
 #### 💡 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=js" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=html" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=css" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" style="margin: 0 10px;" />
 </p>
 
 #### ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,postman" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=laravel" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=postman" style="margin: 0 10px;" />
 </p>
 
 #### 🛠 Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=github" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" style="margin: 0 10px;" />
+  <img src="https://skillicons.dev/icons?i=linux" style="margin: 0 10px;" />
 </p>
 
 ---
@@ -34,13 +45,13 @@
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/ArmandoVallejo" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" style="margin: 0 10px;"/>
   </a>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" style="margin: 0 10px;"/>
   </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40"/>
+  <a href="mailto:juanarmandovh20@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" style="margin: 0 10px;"/>
   </a>
 </p>
 
